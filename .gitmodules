@@ -1,0 +1,3 @@
+[submodule "nerves_hub_web"]
+	path = nerves_hub_web
+	url = https://github.com/Agobe2426/nerves_hub_web.git
